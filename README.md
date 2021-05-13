@@ -8,7 +8,7 @@ Here are all of the links that were shared during the session:
 - [InnerSource Commons](https://innersourcecommons.org/)
 - [InnerSource FAQ Template repo](https://github.com/demo-days/innersource-faq-template)
 - [Building a Community Practice](https://opensource.com/open-organization/20/2/building-community-practice-5-steps)
-- [GitHub Codespaces])https://github.com/features/codespaces)
+- [GitHub Codespaces](https://github.com/features/codespaces)
 - [Formatting a README](https://guides.github.com/features/wikis/#Formatting-a-readme)
 - [GitHub Docs - CONTRIBUTING.md example](https://github.com/github/docs/blob/main/CONTRIBUTING.md)
 - [Atom - Issue Template example](https://github.com/atom/.github/blob/master/.github/ISSUE_TEMPLATE/feature_request.md)
